@@ -1,0 +1,12 @@
+[
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of x square dx",
+        "output": "\\int x^2 dx"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 9 = 0",
+        "output": "x = ±3"
+    }
+]

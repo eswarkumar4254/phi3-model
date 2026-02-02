@@ -1,0 +1,19 @@
+# Dependencies
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large Model Files (Usually kept local)
+phi3_base_model/
+phi3_self_improved/
+
+# Local Storage/Database
+qdrant_storage/
+data/self_improvement_data.json
+
+# Environment/Logs
+.env
+*.log
+.DS_Store

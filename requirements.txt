@@ -1,0 +1,11 @@
+torch>=2.1.0
+transformers>=4.38.0
+datasets
+peft
+accelerate
+bitsandbytes
+trl
+safetensors
+groq
+sentencepiece
+scipy

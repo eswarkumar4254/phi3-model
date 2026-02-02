@@ -1,0 +1,502 @@
+[
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 95x power 4 plus 81 dx",
+        "output": "\\int 95x^4 + 81 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 81x power 3 plus 53 dx",
+        "output": "\\int 81x^3 + 53 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 66x power 2 plus 81 dx",
+        "output": "\\int 66x^2 + 81 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 74x power 4 plus 37 dx",
+        "output": "\\int 74x^4 + 37 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 6x power 3 plus 75 dx",
+        "output": "\\int 6x^3 + 75 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 31x power 2 plus 84 dx",
+        "output": "\\int 31x^2 + 84 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 28x power 5 plus 52 dx",
+        "output": "\\int 28x^5 + 52 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 62x power 5 plus 46 dx",
+        "output": "\\int 62x^5 + 46 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 18x power 3 plus 76 dx",
+        "output": "\\int 18x^3 + 76 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 41x power 3 plus 86 dx",
+        "output": "\\int 41x^3 + 86 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 7x power 3 plus 1 dx",
+        "output": "\\int 7x^3 + 1 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 52x power 5 plus 28 dx",
+        "output": "\\int 52x^5 + 28 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 91x power 4 plus 49 dx",
+        "output": "\\int 91x^4 + 49 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 39x power 3 plus 31 dx",
+        "output": "\\int 39x^3 + 31 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 21x power 5 plus 76 dx",
+        "output": "\\int 21x^5 + 76 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 91x power 3 plus 78 dx",
+        "output": "\\int 91x^3 + 78 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 27x power 4 plus 15 dx",
+        "output": "\\int 27x^4 + 15 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 83x power 3 plus 22 dx",
+        "output": "\\int 83x^3 + 22 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 83x power 2 plus 76 dx",
+        "output": "\\int 83x^2 + 76 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 9x power 2 plus 60 dx",
+        "output": "\\int 9x^2 + 60 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 96x power 5 plus 23 dx",
+        "output": "\\int 96x^5 + 23 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 34x power 3 plus 49 dx",
+        "output": "\\int 34x^3 + 49 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 23x power 2 plus 16 dx",
+        "output": "\\int 23x^2 + 16 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 26x power 2 plus 65 dx",
+        "output": "\\int 26x^2 + 65 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 24x power 2 plus 36 dx",
+        "output": "\\int 24x^2 + 36 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 88x power 3 plus 31 dx",
+        "output": "\\int 88x^3 + 31 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 52x power 4 plus 17 dx",
+        "output": "\\int 52x^4 + 17 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 31x power 4 plus 33 dx",
+        "output": "\\int 31x^4 + 33 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 98x power 5 plus 79 dx",
+        "output": "\\int 98x^5 + 79 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 18x power 3 plus 92 dx",
+        "output": "\\int 18x^3 + 92 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 25x power 4 plus 77 dx",
+        "output": "\\int 25x^4 + 77 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 46x power 5 plus 9 dx",
+        "output": "\\int 46x^5 + 9 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 47x power 3 plus 100 dx",
+        "output": "\\int 47x^3 + 100 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 35x power 5 plus 72 dx",
+        "output": "\\int 35x^5 + 72 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 22x power 2 plus 28 dx",
+        "output": "\\int 22x^2 + 28 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 20x power 2 plus 22 dx",
+        "output": "\\int 20x^2 + 22 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 81x power 5 plus 71 dx",
+        "output": "\\int 81x^5 + 71 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 95x power 2 plus 15 dx",
+        "output": "\\int 95x^2 + 15 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 76x power 3 plus 36 dx",
+        "output": "\\int 76x^3 + 36 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 43x power 2 plus 40 dx",
+        "output": "\\int 43x^2 + 40 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 69x power 2 plus 16 dx",
+        "output": "\\int 69x^2 + 16 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 19x power 3 plus 48 dx",
+        "output": "\\int 19x^3 + 48 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 63x power 4 plus 41 dx",
+        "output": "\\int 63x^4 + 41 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 17x power 3 plus 13 dx",
+        "output": "\\int 17x^3 + 13 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 76x power 3 plus 42 dx",
+        "output": "\\int 76x^3 + 42 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 46x power 5 plus 59 dx",
+        "output": "\\int 46x^5 + 59 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 20x power 3 plus 59 dx",
+        "output": "\\int 20x^3 + 59 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 14x power 3 plus 81 dx",
+        "output": "\\int 14x^3 + 81 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 98x power 3 plus 82 dx",
+        "output": "\\int 98x^3 + 82 dx"
+    },
+    {
+        "instruction": "Convert the equation to LaTeX",
+        "input": "Integral of 38x power 4 plus 24 dx",
+        "output": "\\int 38x^4 + 24 dx"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 4 = 0",
+        "output": "x = \u00b12"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 1 = 0",
+        "output": "x = \u00b11"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 25 = 0",
+        "output": "x = \u00b15"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 16 = 0",
+        "output": "x = \u00b14"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 49 = 0",
+        "output": "x = \u00b17"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 64 = 0",
+        "output": "x = \u00b18"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 64 = 0",
+        "output": "x = \u00b18"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 4 = 0",
+        "output": "x = \u00b12"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 64 = 0",
+        "output": "x = \u00b18"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 36 = 0",
+        "output": "x = \u00b16"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 9 = 0",
+        "output": "x = \u00b13"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 1 = 0",
+        "output": "x = \u00b11"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 36 = 0",
+        "output": "x = \u00b16"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 81 = 0",
+        "output": "x = \u00b19"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 36 = 0",
+        "output": "x = \u00b16"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 16 = 0",
+        "output": "x = \u00b14"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 9 = 0",
+        "output": "x = \u00b13"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 64 = 0",
+        "output": "x = \u00b18"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 36 = 0",
+        "output": "x = \u00b16"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 49 = 0",
+        "output": "x = \u00b17"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 36 = 0",
+        "output": "x = \u00b16"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 49 = 0",
+        "output": "x = \u00b17"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 100 = 0",
+        "output": "x = \u00b110"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 64 = 0",
+        "output": "x = \u00b18"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 16 = 0",
+        "output": "x = \u00b14"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 1 = 0",
+        "output": "x = \u00b11"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 25 = 0",
+        "output": "x = \u00b15"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 49 = 0",
+        "output": "x = \u00b17"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 4 = 0",
+        "output": "x = \u00b12"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 100 = 0",
+        "output": "x = \u00b110"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 49 = 0",
+        "output": "x = \u00b17"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 81 = 0",
+        "output": "x = \u00b19"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 9 = 0",
+        "output": "x = \u00b13"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 49 = 0",
+        "output": "x = \u00b17"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 64 = 0",
+        "output": "x = \u00b18"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 49 = 0",
+        "output": "x = \u00b17"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 49 = 0",
+        "output": "x = \u00b17"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 49 = 0",
+        "output": "x = \u00b17"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 81 = 0",
+        "output": "x = \u00b19"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 9 = 0",
+        "output": "x = \u00b13"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 49 = 0",
+        "output": "x = \u00b17"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 9 = 0",
+        "output": "x = \u00b13"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 9 = 0",
+        "output": "x = \u00b13"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 100 = 0",
+        "output": "x = \u00b110"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 36 = 0",
+        "output": "x = \u00b16"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 100 = 0",
+        "output": "x = \u00b110"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 4 = 0",
+        "output": "x = \u00b12"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 49 = 0",
+        "output": "x = \u00b17"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 64 = 0",
+        "output": "x = \u00b18"
+    },
+    {
+        "instruction": "Solve the equation",
+        "input": "x^2 - 36 = 0",
+        "output": "x = \u00b16"
+    }
+]
